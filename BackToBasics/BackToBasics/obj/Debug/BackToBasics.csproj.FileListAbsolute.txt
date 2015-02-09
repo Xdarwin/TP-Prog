@@ -1,0 +1,6 @@
+c:\users\epita\documents\visual studio 2013\Projects\BackToBasics\BackToBasics\bin\Debug\BackToBasics.exe.config
+C:\Users\epita\documents\visual studio 2013\Projects\BackToBasics\BackToBasics\bin\Debug\BackToBasics.exe
+C:\Users\epita\documents\visual studio 2013\Projects\BackToBasics\BackToBasics\bin\Debug\BackToBasics.pdb
+C:\Users\epita\documents\visual studio 2013\Projects\BackToBasics\BackToBasics\obj\Debug\BackToBasics.csprojResolveAssemblyReference.cache
+C:\Users\epita\documents\visual studio 2013\Projects\BackToBasics\BackToBasics\obj\Debug\BackToBasics.exe
+C:\Users\epita\documents\visual studio 2013\Projects\BackToBasics\BackToBasics\obj\Debug\BackToBasics.pdb
